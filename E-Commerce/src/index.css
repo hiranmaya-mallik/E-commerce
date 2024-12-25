@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: "Kumbh Sans", serif;
+    background-color: #F5F0F0;
+}
+.container{width: 92%; margin: auto;}
+
+.link:hover{color: #ff5252;}
+
+.MuiBadge-badge{background-color: #ff5252 !important ;}
